@@ -1,0 +1,38 @@
+name: Update contribution animation
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-contribution-animation.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-animation
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: boycoe7k
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish animation assets
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
