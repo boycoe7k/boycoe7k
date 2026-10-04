@@ -2,74 +2,46 @@
 
 <img src="assets/logo.svg" width="120" alt="Boycoe-Dev logo">
 
-# BOYCOE-DEV
-
-### Full-Stack Developer • AI Enthusiast • Builder
-
-<a href="https://nexora.zone.id"><img src="https://img.shields.io/badge/Website-nexora.zone.id-19bfff?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f"><img src="https://img.shields.io/badge/WhatsApp_Channel-Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
+<h1>Boycoe-Dev</h1>
+<p><strong>Full-stack developer building web apps, APIs, and AI-powered tools.</strong></p>
+<p>
+  <a href="https://nexora.zone.id">Website</a> ·
+  <a href="https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f">WhatsApp Channel</a> ·
+  <a href="https://wa.me/263781021754">Contact</a>
+</p>
 </div>
 
-<img src="assets/neon-animation.gif" width="100%" alt="Animated Boycoe-Dev banner">
+<img src="assets/neon-animation.gif" width="100%" alt="Boycoe-Dev animated banner">
+
+## About
+
+I'm Boycoe-Dev. I enjoy turning ideas into practical software—from web experiences and backend services to AI-powered tools. I learn by building, iterating, and sharing useful projects.
+
+## Areas I Work In
+
+- Full-stack web applications
+- APIs and backend systems
+- AI-powered applications and integrations
+- Android and educational tools
+- Chatbots and developer utilities
+
+## Tools & Technologies
+
+`JavaScript` · `Python` · `Java` · `Node.js` · `HTML` · `CSS` · `SQL` · `Git` · `GitHub` · `Sketchware Pro`
+
+## Selected Projects
+
+- **[Awesome Free LLM APIs](https://github.com/boycoe7k/awesome-freellm-apis)** — A structured directory of free LLM APIs, with model details, provider information, and practical setup examples. Explore the companion site at [freellm.net](https://freellm.net).
+- **[ZIMSEC Papers Scraper](https://github.com/boycoe7k/scraper-tt)** — A Node.js crawler and dashboard for finding public ZIMSEC paper resources, with PDF discovery, search, filters, and an Express API.
+
+## Connect
+
+- **Website:** [nexora.zone.id](https://nexora.zone.id)
+- **WhatsApp Channel:** [Join the channel](https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f)
+- **Direct contact:** [Message me on WhatsApp](https://wa.me/263781021754)
 
 ---
 
-## 👋 About Me
-
-I'm **Boycoe-Dev**, a developer who enjoys building modern websites, mobile apps, APIs and AI-powered projects.
-
-I like turning ideas into real projects, experimenting with new technologies, and continuously improving my coding skills.
-
-> **Build it. Break it. Learn it. Improve it.**
-
-## 🚀 What I Build
-
-- 🌐 Modern websites and web apps
-- 📱 Android applications
-- 🤖 AI-powered applications
-- 🔌 APIs and backend systems
-- 📚 Educational and offline-first apps
-- 🧪 Experimental developer tools
-- 🤖 WhatsApp & Telegram Bots
-
-## 🛠️ Tech Stack
-
-`HTML` `CSS` `JavaScript` `Python` `Node.js` `Java` `SQL` `Git` `GitHub` `Sketchware Pro`
-
-## 🔥 Featured Projects
-
-### 🐦 Delphine AI
-An AI-focused project exploring modern AI features and APIs.
-
-### 📚 Learn Hub
-An offline learning app concept with books, PDFs, quizzes and coding courses.
-
-### 📄 PDF Scraper API
-A developer API concept for searching and working with PDF resources.
-
-## 🔗 Connect With Me
-
-| Platform | Link |
-|---|---|
-| 🌐 Website | [nexora.zone.id](https://nexora.zone.id) |
-| 💬 WhatsApp Channel | [Join the channel](https://whatsapp.com/channel/0029VbBxPYN2kNFj3I1H1e0f) |
-| 📱 WhatsApp | [+263 781 021 754](https://wa.me/263781021754) |
-
-## ⚡ Currently
-
-```text
-> learning
-> coding
-> building
-> experimenting with AI
-> creating new projects
-```
-
 <div align="center">
-
-### Thanks for visiting my profile! 🚀
-
-⭐ Check out my repositories and follow the journey.
-
+  <sub>Thanks for visiting. Explore my projects and repositories.</sub>
 </div>
